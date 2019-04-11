@@ -1,0 +1,54 @@
+
+.add-button {
+    text-align: right;
+}
+
+.custom-alert  {
+    margin: 20px 10px;
+}
+.card-thumb {
+    width: 20%;
+}
+.card-thumb img {
+    width: 100%;
+}
+.card-edit-thumb {
+    margin: 15px 0;
+    background-size: 100%;
+}
+.card-edit-thumb img {
+    width: 100%;
+}
+.red {
+    color: darkred;
+}
+.green {
+    color: green;
+}
+
+.card-preview img{
+    width: 100%;
+    border: 2px solid #eee;
+}
+
+.customInput {
+    text-align: center;
+    padding: 30px;
+    font-size: 18pt;
+}
+
+.customBtn {
+    background: #0d6aad;
+    border: 1px solid #0d6aad;
+    color: #fff;
+    font-size: 20pt;
+    width: 100%;
+    border-radius: 5px;
+    padding: 8px;
+    display: block;
+    text-align: center;
+}
+.customBtn:hover {
+    color: #eee;
+    text-decoration: none;
+}
